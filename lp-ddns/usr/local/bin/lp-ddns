@@ -2,12 +2,12 @@
 set -e
 
 # Comment this if you want to use this script standalone:
-. /etc/lp-dyndns/settings.conf
+#. /etc/lp-dyndns/settings.conf
 
 # Uncomment if you want to use this script standalone:
-#RECORDID=
-#PASSWORD=
-#DOMAIN=
+RECORDID=[redacted]
+PASSWORD=[redacted]
+DOMAIN=[redacted]
 
 
 # Do not touch this, unless you want to touch this :)
